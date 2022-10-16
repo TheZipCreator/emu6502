@@ -1,0 +1,9 @@
+{
+	"authors": [
+		"TheZipCreator"
+	],
+	"copyright": "Copyright © 2022, TheZipCreator",
+	"description": "Emulator for the MOS 6502 Microprocessor in D",
+	"license": "GNU General Public License v3.0",
+	"name": "emu6502"
+}
