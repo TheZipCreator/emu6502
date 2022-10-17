@@ -11,7 +11,7 @@ import emu6502;
 
 void main() {
   ubyte[0x10000] memory;
-  ubyte[] code = [
+  ubyte[29] code = [
     0xA2, 0x00,       //   lda #0
                       // loop:
     0xBD, 0x0E, 0x80, //   lda data,x
